@@ -27,3 +27,29 @@
   <img src="https://img.shields.io/badge/AI_Engineering-9B59B6?style=for-the-badge&logo=probot&logoColor=white"/>
 </p>
 <h2 align="left">Tech Stack</h2>
+
+<h2 align="left">Tech Stack</h2>
+
+<h3 align="left">Programming Languages</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
+
+<h3 align="left">Web Development</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nestjs" />
+</p>
+
+<h3 align="left">Mobile Development</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+<h3 align="left">Database & Tools</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,docker,vscode" />
+</p>
