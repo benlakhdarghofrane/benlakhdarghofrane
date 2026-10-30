@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**benlakhdarghofrane/benlakhdarghofrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ghofrane Benlakhdar</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Full Stack Developer | AI Engineering Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Passionate about building modern web applications and intelligent solutions.
+</p>
+
+## 👩‍💻 About Me
+
+- 💻 Interested in Web & Mobile App Development and AI Engineering.
+- 🚀 Building modern web and mobile applications.
+- 🤖 Exploring AI-powered solutions and intelligent systems.
+- 🌱 Always learning and exploring new technologies.
+- 🤝 Open to collaboration on innovative projects.
+- 🎯 Focused on creating practical solutions through technology.
