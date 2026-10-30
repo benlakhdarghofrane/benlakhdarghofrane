@@ -48,6 +48,21 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
+<h3 align="left">AI & Machine Learning</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+<h3 align="left">AI Tools & Technologies</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
+
 <h3 align="left">Database & Tools</h3>
 
 <p align="left">
