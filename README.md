@@ -68,3 +68,13 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,docker,vscode" />
 </p>
+
+<h2 align="left">Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/8B5CF6/benlakhdarghofrane"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
