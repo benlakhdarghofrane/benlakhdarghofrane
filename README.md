@@ -7,11 +7,14 @@
   Passionate about building modern web applications and intelligent solutions.
 </p>
 
-## 👩‍💻 About Me
 
-- 💻 Interested in Web & Mobile App Development and AI Engineering.
-- 🚀 Building modern web and mobile applications.
-- 🤖 Exploring AI-powered solutions and intelligent systems.
-- 🌱 Always learning and exploring new technologies.
-- 🤝 Open to collaboration on innovative projects.
-- 🎯 Focused on creating practical solutions through technology.
+<h2 align="left">About Me</h2>
+
+<p align="left">
+  Full Stack Developer focused on building modern web and mobile applications, with a strong interest in AI Engineering.
+  <br><br>
+  • Developing web and mobile solutions.<br>
+  • Exploring AI-powered applications and intelligent systems.<br>
+  • Interested in software architecture and innovative technologies.<br>
+  • Always learning, building and improving.
+</p>
